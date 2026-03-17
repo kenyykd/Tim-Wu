@@ -46,7 +46,7 @@
 ### 🔗 Connect with Me
 [![BLOG](https://img.shields.io/badge/BLOG-fooint-orange?style=for-the-badge)](https://fooint.blogspot.com/) &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-a23088680@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:a23088680@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TimWu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kunyu-wu-81093b364/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TimWu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/feed/)
 <br>
 
 
